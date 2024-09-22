@@ -1,5 +1,5 @@
 # Java Repository
-This repository contains various Java projects and code snippets, organized into different branches. The main focus is on Java-based applications and utilities that solve practical problems, including file handling and database integration.
+This repository contains Java projects and code snippets, organized into different branches. The main focus is on Java-based applications and utilities that solve practical problems, including file handling and database integration.
 
 ## Branches
 ### 1. main
